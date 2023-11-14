@@ -1,3 +1,3 @@
-x= 30
-if x ==30
-    print("x is 30")
+x= 20
+if x == 20:
+    print("x is 20")
