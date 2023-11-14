@@ -7,3 +7,8 @@ def Arsenal():
   return x
 print(Arsenal())
 
+def cabasa():
+  x=("Id cabasa")
+  return x
+print(cabasa())
+
