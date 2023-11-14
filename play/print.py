@@ -12,3 +12,8 @@ def cabasa():
   return x
 print(cabasa())
 
+
+def football():
+  x=("Arsene", "Everton", "Wolves")
+  return x
+print(football())
