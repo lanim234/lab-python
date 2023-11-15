@@ -18,3 +18,8 @@ if x == 13:
 elif x > 13:
     print('x is greater than 13')
 
+if x == 6
+   print('x is 6')
+elif x > 6:
+   print('x is greater than 6')
+
