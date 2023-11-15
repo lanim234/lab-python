@@ -5,3 +5,8 @@ for i in fruits:
 football = ["Dallas",'NYGiants', "Eagles","Minesota"]
 for i in football:
     print(i)
+
+x=10
+while x > 0:
+    print('x is '+ str(x))
+    x = x-1
