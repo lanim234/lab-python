@@ -13,3 +13,8 @@ if x == 10:
 else:
     print('x is not 10')
 
+if x == 13:
+    print('x is 13')
+elif x > 13:
+    print('x is greater than 13')
+
