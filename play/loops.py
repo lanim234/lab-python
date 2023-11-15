@@ -14,4 +14,4 @@ while x > 0:
 x=9
 while x > 6:
     x = x-1
-    print('x is ', + str(x))
+    print('x is ',+ str(x))
