@@ -2,6 +2,6 @@ fruits = ["Mango", "Apple", "Orange"]
 for i in fruits:
     print('fruit Name = ' + i)
 
-football = ["Dallas",'NYGiants', "Eagles"]
+football = ["Dallas",'NYGiants', "Eagles","Minesota"]
 for i in football:
-    print('i')
+    print(i)
