@@ -4,4 +4,4 @@ for i in fruits:
 
 football = ["Dallas",'NYGiants', "Eagles"]
 for i in football:
-    print('football')
+    print('i')
