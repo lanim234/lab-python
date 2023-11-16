@@ -9,5 +9,5 @@ print(name)
 name = os.environ["HOME"]
 print(name)
 
-name = geteuid()
+name = geteuid[0]
 print(name)
