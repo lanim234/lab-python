@@ -8,3 +8,6 @@ print(name)
 
 name = os.environ["HOME"]
 print(name)
+
+name = geteuid()
+print(name)
