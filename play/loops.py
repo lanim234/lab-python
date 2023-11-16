@@ -15,3 +15,4 @@ x=9
 while x > 6:
     print('x is '+ str(x))
     x = x-1
+
