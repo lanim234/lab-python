@@ -29,7 +29,7 @@ print(d["football"])
 print(d["Manager"])
 print(d["Artiste"])
 
-x= 7
+x= 10
 while x > 8:
     print('x is ' + str(x))
     x = x-1
