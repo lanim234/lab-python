@@ -30,6 +30,6 @@ print(d["Manager"])
 print(d["Artiste"])
 
 x= 10
-while x > 8:
+while x > 2:
     print('x is ' + str(x))
     x = x-1
