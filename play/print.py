@@ -18,3 +18,7 @@ def football():
   return x
 print(football())
 
+def Artiste():
+  x=("Phyno", "Rema")
+  return x
+print(Artiste())
