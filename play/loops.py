@@ -33,3 +33,8 @@ x= 10
 while x > 2:
     print('x is ' + str(x))
     x = x-1
+
+x= 8
+while x > 2:
+    print('x is ' + str(x))
+    x = x-1
