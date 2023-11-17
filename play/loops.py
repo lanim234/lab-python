@@ -25,4 +25,4 @@ for x in Countries:
     print(x)
 
 d = {"football": 'Manchester United', "Artiste": "Rema", "Manager":"Arsene"}
-print(d[football])
+print(d["football"])
