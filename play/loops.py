@@ -2,7 +2,7 @@ fruits = ["Mango", "Apple", "Orange"]
 for i in fruits:
     print('fruit Name = ' + i)
 
-football = ["Dallas",'NYGiants', "Eagles","Minesota"]
+football = ["Dallas",'NYGiants', "Eagles","Minnesota"]
 for i in football:
     print(i)
 
@@ -18,6 +18,10 @@ while x > 6:
 
 Artiste =['Rema', 'Olamide', 'Dojazzy']
 for x in Artiste:
+    print(x)
+
+Countries = ["Niger", "Ghana", "Benin", "Egypt"]
+for x in Countries:
     print(x)
 
 
