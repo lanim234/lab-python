@@ -19,3 +19,5 @@ while x > 6:
 Artiste =['Rema', 'Olamide', 'Dojazzy']
 for x in Artiste:
     print(x)
+
+
