@@ -38,3 +38,10 @@ x= 8
 while x > 2:
     print('x is ' + str(x))
     x = x-1
+
+
+    echo Crayon
+x=9
+while x < 10:
+    print('x is ' + str(x))
+    x = x+1
