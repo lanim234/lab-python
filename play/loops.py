@@ -27,3 +27,4 @@ for x in Countries:
 d = {"football": 'Manchester United', "Artiste": "Rema", "Manager":"Arsene"}
 print(d["football"])
 print(d["Manager"])
+print(d["Artiste"])
