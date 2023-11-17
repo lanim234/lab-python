@@ -23,3 +23,8 @@ if x == 6:
 elif x > 6:
    print('x is greater than 6')
 
+x = 8
+if x==10:
+    print("x is 10")
+else:
+    print("x is less than 10")
