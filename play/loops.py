@@ -28,3 +28,8 @@ d = {"football": 'Manchester United', "Artiste": "Rema", "Manager":"Arsene"}
 print(d["football"])
 print(d["Manager"])
 print(d["Artiste"])
+
+x= 10
+while x > 8:
+    print('x is ' + str(x))
+    x = x-10
