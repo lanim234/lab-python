@@ -41,7 +41,7 @@ while x > 2:
 
 
 
-x=9
+x=5
 while x < 10:
     print('x is ' + str(x))
     x = x+1
