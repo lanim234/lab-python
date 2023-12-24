@@ -1,5 +1,5 @@
 q={"name" : "sey", "age" : 18, "state" : True }
-q{"name"}
+q["age"]
 
 
 
