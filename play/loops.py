@@ -23,7 +23,7 @@ while x > 6:
     print('x is '+ str(x))
     x = x-9
 
-Artiste =['Rema', 'Olamide', 'Dojazzy']
+Artiste =['Rema', 'Olamide', 'Donjazzy']
 for x in Artiste:
     print(x)
 
