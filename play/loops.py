@@ -1,4 +1,4 @@
-q={ "name" : "sey", "age" : 18, "state" : True }
+q={ "name": "sey", "age": 18, "state": True }
 q['name']
 
 
