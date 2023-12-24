@@ -1,5 +1,5 @@
 q={"name" == "sey", "age" == 18, True }
-q[name]
+q["name"]
 
 
 
