@@ -1,3 +1,8 @@
+q={"name" == "sey", "age" == 18, True }
+q[name]
+
+
+
 def football():
     print("Manchester United, Arsenal")
 x=(football())
