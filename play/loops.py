@@ -1,5 +1,6 @@
-q={"name" : "sey", "age" : 18, "state" : True }
-index.count = q[1]
+q={ "name" : "sey", "age" : 18, "state" : True }
+q['name']
+
 
 
 
