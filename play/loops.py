@@ -1,6 +1,9 @@
 q={ "name": "sey", "age": 18, "state": True }
 print(q["name"])
 
+x=15
+if x == 15:
+    print('x is 15')
 
 
 
