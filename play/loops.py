@@ -17,6 +17,10 @@ elif x > 0:
 
 
 
+fruits = ["apple", "orange", "Guava", "pawpaw"]
+for i in fruits:
+    print('fruit name = ' + i)
+
 def football():
     print("Manchester United, Arsenal")
 x=(football())
