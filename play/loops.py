@@ -1,6 +1,9 @@
+def football():
+    print("Manchester United, Arsenal")
+x=(football())
+
+
 print("My world")
-
-
 
 fruits = ["Mango", "Apple", "Orange"]
 for i in fruits:
