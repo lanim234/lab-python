@@ -1,5 +1,5 @@
 q={"name" : "sey", "age" : 18, "state" : True }
-index.count[1]
+index.count = q[1]
 
 
 
