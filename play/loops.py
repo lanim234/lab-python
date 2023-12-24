@@ -5,9 +5,10 @@ x=15
 if x == 15:
     print('x is 15')
 
-x=20
-if x==15:
+if x ==20:
     print('x is 20')
+else:
+    print('x is not 20')
 
 
 
