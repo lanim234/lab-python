@@ -90,3 +90,11 @@ x=14
 while x > 0:
     print('x is '+ str(x))
     x = x-1
+
+x=10
+
+x==9
+if x is 9:
+    print('x is 9')
+else:
+    print('x is not 9')
