@@ -37,4 +37,4 @@ elif x < 12:
 
 def sample_linux():
     print("my name is lanre")
-    x=(sample_linuc())
+x=(sample_linux())
