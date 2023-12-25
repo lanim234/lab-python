@@ -1,5 +1,6 @@
-import subprocess
 
-proc = subprocess.run(["ls", "-l"])
+import requests
 
-#
+x = requests.get('http://google.com')
+
+print(x.text)
