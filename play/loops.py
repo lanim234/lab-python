@@ -101,3 +101,10 @@ else:
 
 Artiste={"Mavin" : "Rema", "Chocolate city" : "Young John", "Afrobeat" : "Burna Boy"}
 print(Artiste["Mavin"])
+
+
+x=8
+while x < 15:
+    print('x is ' + str(x))
+    x = x + 1
+
