@@ -5,4 +5,4 @@ print(name)
 
 
 name = os.environ['HOME']
-print(name
+print(name)
