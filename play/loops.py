@@ -21,6 +21,10 @@ fruits = ["apple", "orange", "Guava", "pawpaw"]
 for i in fruits:
     print('fruit name = ' + i)
 
+football = ["Manchester", "Arsenal", "Chelsea", "Everton"]
+for i in football:
+    print('football = ' + i)
+
 def football():
     print("Manchester United, Arsenal")
 x=(football())
