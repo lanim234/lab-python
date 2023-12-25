@@ -98,3 +98,6 @@ if x is 9:
     print('x is 9')
 else:
     print('x is not 9')
+
+Artiste={"Mavin" : "Rema", "Chocolate city" : "Young John", "Afrobeat" : "Burna Boy"}
+print(Artiste["Mavin"])
