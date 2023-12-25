@@ -88,5 +88,5 @@ while x < 10:
 
 x=14
 while x > 0:
-    print('x is '+ x)
+    print('x is '+ str(x))
     x = x-1
