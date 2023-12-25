@@ -85,4 +85,8 @@ while x < 10:
     print('x is ' + str(x))
     x = x+1
 
-    #
+
+x=14
+while x > 0:
+    print('x is '+ x)
+    x = x-1
