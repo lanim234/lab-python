@@ -35,6 +35,6 @@ elif x < 12:
     print("x is less than 12")
 
 
-def sample_linux()
+def sample_linux():
     print("my name is lanre")
     x=(sample_linuc())
