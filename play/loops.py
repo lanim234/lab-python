@@ -23,7 +23,7 @@ for i in fruits:
 
 football = ["Manchester", "Arsenal", "Chelsea", "Everton"]
 for i in football:
-    print('football = ' + i)
+    print(i)
 
 def football():
     print("Manchester United, Arsenal")
