@@ -12,7 +12,8 @@ def checkName(name):
     if answer.lower() == "yes":
         print("Hello, ", name)
     else:
-        print("We are sorry about that")
+        new_name = input("We are sorry about that. What is your name again? ")
+        print("Welcome,", new_name)
 
 
 checkName("Lanim")
