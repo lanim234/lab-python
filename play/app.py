@@ -1,6 +1,6 @@
 name ="lanim"
 
-if name== "lanim":
+if name== "kenzo":
     print('yes, my name is lanim')
 
 else:
