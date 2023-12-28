@@ -8,7 +8,7 @@ else:
 
 
 def checkName(name):
-    answer = input("Is your name " + name + "?")
+    answer = input("Is your name " + name + "? ")
     if answer.lower() == "yes":
         print("Hello, ", name)
     else:
